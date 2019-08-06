@@ -1,0 +1,178 @@
+{
+  "rubrics": [
+    {
+      "id": 1,
+      "type": "presentation",
+      "description": "Demonstration of knowledge",
+      "levels": [
+        {
+          "title": "Not Included",
+          "value": 0
+        },
+        {
+          "title": "Minimally Acceptable",
+          "value": 1
+        },
+        {
+          "title": "Fair",
+          "value": 2
+        },
+        {
+          "title": "Apprentice",
+          "value": 3
+        },
+        {
+          "title": "Good",
+          "value": 4
+        },
+        {
+          "title": "Exceptional",
+          "value": 5
+        }
+      ],
+      "criterias": [
+        {
+          "description": "Presentation of Research",
+          "weight": 20,
+          "criteria": [
+            {
+              "content": "No research demonstrated"
+            },
+            {
+              "content": "Does not sufficiently present main points of introduction, hypothesis/propositions, research methods, results"
+            },
+            {
+              "content": "Contains title/authors of paper presents main points of introduction/hypothesis, reseach methods, results, conclusion"
+            },
+            {
+              "content": "Contains title/authors of paper presents main points of introduction/hypothesis, reseach methods, results, conclusion"
+            },
+            {
+              "content": "Presents main points of introduction, hypothesis/propositions, research, "
+            },
+            {
+              "content": "Does not sufficiently present main points of introduction, hypothesis/propositions, research methods, results"
+            }
+          ],
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "presentation",
+      "description": "Demonstration of knowledge",
+      "levels": [
+        {
+          "title": "Not Included",
+          "value": 0
+        },
+        {
+          "title": "Minimally Acceptable",
+          "value": 1
+        },
+        {
+          "title": "Fair",
+          "value": 2
+        },
+        {
+          "title": "Apprentice",
+          "value": 3
+        },
+        {
+          "title": "Good",
+          "value": 4
+        },
+        {
+          "title": "Exceptional",
+          "value": 5
+        }
+      ],
+      "criterias": [
+        {
+          "description": "Presentation of Research",
+          "weight": 20,
+          "criteria": [
+            {
+              "content": "No research demonstrated"
+            },
+            {
+              "content": "Does not sufficiently present main points of introduction, hypothesis/propositions, research methods, results"
+            },
+            {
+              "content": "Contains title/authors of paper presents main points of introduction/hypothesis, reseach methods, results, conclusion"
+            },
+            {
+              "content": "Contains title/authors of paper presents main points of introduction/hypothesis, reseach methods, results, conclusion"
+            },
+            {
+              "content": "Presents main points of introduction, hypothesis/propositions, research, "
+            },
+            {
+              "content": "Does not sufficiently present main points of introduction, hypothesis/propositions, research methods, results"
+            }
+          ],
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "presentation",
+      "description": "Demonstration of knowledge",
+      "levels": [
+        {
+          "title": "Not Included",
+          "value": 0
+        },
+        {
+          "title": "Minimally Acceptable",
+          "value": 1
+        },
+        {
+          "title": "Fair",
+          "value": 2
+        },
+        {
+          "title": "Apprentice",
+          "value": 3
+        },
+        {
+          "title": "Good",
+          "value": 4
+        },
+        {
+          "title": "Exceptional",
+          "value": 5
+        }
+      ],
+      "criterias": [
+        {
+          "description": "Presentation of Research",
+          "weight": 20,
+          "criteria": [
+            {
+              "content": "No research demonstrated"
+            },
+            {
+              "content": "Does not sufficiently present main points of introduction, hypothesis/propositions, research methods, results"
+            },
+            {
+              "content": "Contains title/authors of paper presents main points of introduction/hypothesis, reseach methods, results, conclusion"
+            },
+            {
+              "content": "Contains title/authors of paper presents main points of introduction/hypothesis, reseach methods, results, conclusion"
+            },
+            {
+              "content": "Presents main points of introduction, hypothesis/propositions, research, "
+            },
+            {
+              "content": "Does not sufficiently present main points of introduction, hypothesis/propositions, research methods, results"
+            }
+          ],
+          "comments": []
+        }
+      ]
+    }
+  ]
+}
